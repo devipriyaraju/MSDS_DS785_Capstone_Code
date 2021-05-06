@@ -6,5 +6,6 @@ The outputs were stored in New_Music folder within the run folder.
 0001_Tracks contain outputs of RNN model.
 0001_chorales contain outputs of GAN model
 
+
 Each run of the models, will be generating one musical track as the output.
 Install MuseScore 3 in order to see the music sheets of the audio files. 
